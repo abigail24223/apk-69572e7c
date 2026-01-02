@@ -1,0 +1,20 @@
+{
+    "app_name": "Aurrex Trade",
+    "package_name": "com.aurrextrade.app",
+    "version": "1.0.0",
+    "version_code": 100,
+    "website_url": "https:\/\/aurrextrade.com\/",
+    "orientation": "portrait",
+    "fullscreen": false,
+    "enable_splash": true,
+    "splash_color": "#6366f1",
+    "splash_duration": 2,
+    "offline_mode": true,
+    "back_button": false,
+    "file_downloads": false,
+    "description": "Aurrex Trade is a premier online trading platform, providing users with seamless access to global markets and financial opportunities, learn more at https:\/\/aurrextrade.com\/. Download the app to start trading and investing with confidence, utilizing the tools and resources available on our website.",
+    "build_id": "69572e7c35c32_1767321212",
+    "app_icon_path": "\/var\/www\/html\/uploads\/app_icon_69572e7c35c32_1767321212.png",
+    "splash_icon_path": "\/var\/www\/html\/uploads\/splash_icon_69572e7c35c32_1767321212.png",
+    "created_at": "2026-01-02 02:33:32"
+}
